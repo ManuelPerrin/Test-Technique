@@ -14,5 +14,5 @@ Pour tester, quatre fichiers json sont disponibles :
 
 - le fichier "message1.json" présente un cas passant
 - le fichier "message2.json" présente un cas d'erreur dans lequel un paramètre obligatoire est manquant
-- le ficheir "message3.json" présente un cas d'erreur dans lequel le format d'un paramètre diffère de celui attendu
+- le fichier "message3.json" présente un cas d'erreur dans lequel le format d'un paramètre diffère de celui attendu
 - le fichier "message4.json" présente un cas d'erreur dans lequel la valeur du paramètre "direction" ne correspond à aucune des valeurs attendues
