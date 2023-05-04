@@ -5,7 +5,7 @@ Test technique d'un composant logiciel qui à partir d’une base de données, r
 
 
 
-### Test général :
+### Test général
 
 Code : "Test_General.py"
 
@@ -25,7 +25,7 @@ Pour tester, quatre fichiers json sont disponibles :
 
 
 
-### Test des fichiers obtenus :
+### Test des fichiers obtenus
 
 Code : "Test_FichiersObtenus.py"
 
