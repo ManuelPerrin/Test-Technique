@@ -5,8 +5,9 @@ Test technique d'un composant logiciel qui à partir d’une base de données, r
 
 
 
-Partie "Test_General" :
+### Test général :
 
+Code : "Test_General"
 
 Le code permet de vérifier que le fichier JSON entré :
 
@@ -24,6 +25,8 @@ Pour tester, quatre fichiers json sont disponibles :
 
 
 
-Partie "Test_FichiersObtenus" :
+### Test des fichiers obtenus :
+
+Code : "Test_FichiersObtenus"
 
 Le code permet de tester les 10 fichiers obtenus afin de vérifier qu'ils sont conformes à la base de données.
