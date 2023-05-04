@@ -7,7 +7,7 @@ Test technique d'un composant logiciel qui à partir d’une base de données, r
 
 ### Test général :
 
-Code : "Test_General"
+Code : "Test_General.py"
 
 Le code permet de vérifier que le fichier JSON entré :
 
@@ -27,6 +27,6 @@ Pour tester, quatre fichiers json sont disponibles :
 
 ### Test des fichiers obtenus :
 
-Code : "Test_FichiersObtenus"
+Code : "Test_FichiersObtenus.py"
 
 Le code permet de tester les 10 fichiers obtenus afin de vérifier qu'ils sont conformes à la base de données.
