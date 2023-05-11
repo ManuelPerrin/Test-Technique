@@ -30,3 +30,10 @@ Pour tester, quatre fichiers json sont disponibles :
 Code : "Test_FichiersObtenus.py"
 
 Le code permet de tester les 10 fichiers obtenus afin de vérifier qu'ils sont conformes à la base de données.
+
+### Comparaison d'un message de la base de données avec un fichier JSON
+
+Code : "Comparaison.py"
+
+Le code permet de comparer un message de la base de données (en entrant son identifiant) avec un fichier JSON (en entrant le fichier).
+Par défaut, le code est exécuté avec le message 1 de la base de donné, comparé avec le fichier JSON "message1.json".
